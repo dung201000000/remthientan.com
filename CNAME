@@ -1,1 +1,3 @@
 remthientan.github.vn
+cd noithat-website
+echo "remthientan.github.vn" > CNAME
